@@ -29,7 +29,7 @@
     * 예시
       * [㐍](http://www.koreanhistory.or.kr/newchar/list_view.jsp?code=14)(U+340D) : '뜰', '졸' → [suminb/hanja](https://github.com/suminb/hanja)에서는 *'졸'로만 수록*
       * [㐡](http://www.koreanhistory.or.kr/newchar/list_view.jsp?code=34)(U+3421) : '나', '연', '유' → [suminb/hanja](https://github.com/suminb/hanja)에서는 *'유'로만 수록*
-      * 樂(U+F914) : 즐거울 낙 / 樂(U+F95C) : 즐거울 락 / 樂(U+F9BF) : 좋아할 요 / [樂](http://www.koreanhistory.or.kr/newchar/list_view.jsp?code=13753)(U+6A02) : 풍류 악 → *U+F900 ~ U+FAFF 사이 (호환용) 한자의 정확한 음가 데이터 찾기 어려움* 
+      * 樂(U+F914) : 즐거울 낙 / 樂(U+F95C) : 즐거울 락 / 樂(U+F9BF) : 좋아할 요 / [樂](http://www.koreanhistory.or.kr/newchar/list_view.jsp?code=13753)(U+6A02) : 풍류 악 → *U+F900 ~ U+FAFF 사이 (호환용) 한자의 정확한 음가 데이터 찾기 어려움 (모두 '낙', '락', '요', '악'과 매칭됨)* 
     * *새로 음가 데이터를 추가하는 한자가 2개 이상의 음가를 가지고 있는 경우, 어떤 음가 값을 수록해야할지 기준 없음*
 
 
