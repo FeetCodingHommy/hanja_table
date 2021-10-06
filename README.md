@@ -34,7 +34,21 @@
 
 
 
+###### 음가 데이터 출처
+
+* ★ 한국역사정보통합시스템, [koreanhistory.or.kr](http://www.koreanhistory.or.kr/newchar/main_list.jsp)
+  * Unicode Extension A 및 Unicode BMP 음가 수록
+  * 일부 Unicode Extension B 수록
+* ★★★ 나무위키, "[완성형/중복 한자/중복 한자 목록](https://namu.wiki/w/%EC%99%84%EC%84%B1%ED%98%95/%EC%A4%91%EB%B3%B5%20%ED%95%9C%EC%9E%90#s-5)" 문서.
+  * ★★★ CJK Compatibility Ideographs 중복 음가 수록
+* ★ 한국학중앙연구원 유니코드 한자 이체자 정보 사전, [waks.aks.ac.kr/unicode](http://waks.aks.ac.kr/unicode/)
+  * 일부 Unicode Extension B 수록
+
+
+
 ###### reference
 
 * [Lee, J. H.](http://doi.or.kr/10.PSN/ADPER6800413203), "[Problems with Chinese Ideographs Search in Unicode and Solutions to Them (=유니코드 한자 검색의 문제점 및 개선방안)](http://www.koreascience.or.kr/article/JAKO201220762922019.page)", 2012.07 \[[PDF](http://www.koreascience.or.kr/article/JAKO201220762922019.pdf)\]
+* [unicode-table.com](https://unicode-table.com/kr/blocks/)
+* Wikipedia, "[한중일 통합 한자](https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A4%91%EC%9D%BC_%ED%86%B5%ED%95%A9_%ED%95%9C%EC%9E%90)" 문서.
 
