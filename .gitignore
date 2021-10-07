@@ -32,4 +32,7 @@ venv/
 .history
 .ionide
 
+### VisualStudioCode My Additional Patch ###
+**/__pycache__
+
 # End of https://www.toptal.com/developers/gitignore/api/venv,visualstudiocode
